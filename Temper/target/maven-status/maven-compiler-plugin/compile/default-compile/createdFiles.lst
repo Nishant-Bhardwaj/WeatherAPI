@@ -1,0 +1,6 @@
+com\weather\Temper\DataServices.class
+com\weather\Temper\App.class
+com\weather\Temper\TempControler.class
+com\weather\Temper\ConstantComponent.class
+com\weather\Temper\detailRepository.class
+com\weather\Temper\Weather.class

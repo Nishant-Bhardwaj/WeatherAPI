@@ -1,0 +1,1 @@
+create table weather(id number(20) auto_increment, city varchar(20), details varchar(1000));
